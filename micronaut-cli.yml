@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: client.content.length
+---
+testFramework: spock
+sourceLanguage: java

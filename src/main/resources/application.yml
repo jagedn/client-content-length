@@ -1,0 +1,7 @@
+micronaut:
+    application:
+        name: client-content-length
+
+    http:
+        client:
+            max-content-length: 10mb
